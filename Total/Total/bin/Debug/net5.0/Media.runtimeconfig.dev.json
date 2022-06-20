@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\atis.manhaes\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\atis.manhaes\\.nuget\\packages"
+    ]
+  }
+}
